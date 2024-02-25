@@ -7,7 +7,7 @@ import 'providers/dark_mode_prov.dart';
 void main() {
   WidgetsFlutterBinding.ensureInitialized();
   SystemChrome.setPreferredOrientations([
-    DeviceOrientation.portraitUp
+   // DeviceOrientation.portraitUp
   ]).then((_) =>  runApp(const MyApp()),);
  
 }
