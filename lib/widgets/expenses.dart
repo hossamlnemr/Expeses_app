@@ -9,8 +9,6 @@ import 'package:provider/provider.dart';
 import '../providers/dark_mode_prov.dart';
 import 'expenses_list/expenses_list.dart';
 
-
-
 class Expenses extends StatefulWidget {
   const Expenses({super.key });
 
